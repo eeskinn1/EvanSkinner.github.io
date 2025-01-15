@@ -1,13 +1,6 @@
-# Welcome to My GitHub Website
-
-## Introduction
-
+# Evan Skinner EGR314 Team310
 
 ## My Projects
-
-
-## Contact Me
-
 
 ---
 
